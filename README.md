@@ -1,1 +1,1 @@
-# lab-supervised-classification-Public
+# lab-supervised-classification
